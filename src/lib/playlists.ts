@@ -26,8 +26,8 @@ export const playlists: Playlist[] = [
   {
     id: 'playlist-1',
     name: 'Morning Waves',
-    startHour: 14,
-    startMinute: 0,
+    startHour: 19,
+    startMinute: 30,
     tracks: [
       {
         id: 'mw-1',
