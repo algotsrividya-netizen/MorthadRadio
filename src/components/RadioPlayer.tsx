@@ -59,7 +59,7 @@ const RadioPlayer = () => {
               <Radio className="relative w-5 h-5 text-primary z-10" />
             </div>
             <h1 className="text-4xl md:text-5xl font-display font-bold tracking-wide text-foreground">
-              Morthad Radio
+              RADIO26
             </h1>
           </div>
           {/* Animated shining underline */}
