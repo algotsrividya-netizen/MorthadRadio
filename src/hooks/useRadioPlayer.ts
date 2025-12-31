@@ -217,6 +217,9 @@ export const useRadioPlayer = () => {
     }
   }, [syncPlayback]);
 
+  // Auto-play when ready
+  const autoPlayTriggeredRef = useRef(false);
+  
   // Initialize audio and load durations
   useEffect(() => {
     const audio = new Audio();
@@ -353,6 +356,17 @@ export const useRadioPlayer = () => {
     if (syncIntervalRef.current) clearInterval(syncIntervalRef.current);
     syncIntervalRef.current = window.setInterval(syncPlayback, 3000);
   }, [syncPlayback]);
+
+  // Auto-play when ready and content is available
+  useEffect(() => {
+    if (state.isReady && state.hasContent && !autoPlayTriggeredRef.current && !state.isPlaying) {
+      autoPlayTriggeredRef.current = true;
+      // Small delay to ensure everything is properly initialized
+      setTimeout(() => {
+        play();
+      }, 100);
+    }
+  }, [state.isReady, state.hasContent, state.isPlaying, play]);
 
   // Pause
   const pause = useCallback(() => {
