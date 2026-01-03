@@ -25,7 +25,7 @@ export interface Playlist {
 export const playlists: Playlist[] = [
   {
     id: 'playlist-1',
-    name: 'Night Waves',
+    name: 'Morning Waves',
     startHour: 11,
     startMinute: 0,
     tracks: [
