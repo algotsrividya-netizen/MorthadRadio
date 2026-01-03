@@ -26,10 +26,148 @@ export const playlists: Playlist[] = [
   {
     id: 'playlist-1',
     name: 'Night Waves',
-    startHour: 19,
-    startMinute: 30,
+    startHour: 11,
+    startMinute: 0,
     tracks: [
-      {
+  {
+        id: 'mw-38',
+        title: 'Shivamani Telugu Movie __ Rama Rama Video Song __ Nagarjuna_ Asin(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Shivamani%20Telugu%20Movie%20__%20Rama%20Rama%20Video%20Song%20__%20Nagarjuna_%20Asin(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9TaGl2YW1hbmkgVGVsdWd1IE1vdmllIF9fIFJhbWEgUmFtYSBWaWRlbyBTb25nIF9fIE5hZ2FyanVuYV8gQXNpbihNNEFfMTI4SykubTRhIiwiaWF0IjoxNzY3MDE0MTkxLCJleHAiOjE3OTg1NTAxOTF9.OnrKoHEAmcvzldirPsFsOa-_gjw8ARGyN1417cC_oQY',
+        duration: 300,
+},
+{
+        id: 'mw-39',
+        title: 'Shivamani Telugu Movie __ Yenaatiki Video Songs __ Nagarjuna_ Asin(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Shivamani%20Telugu%20Movie%20__%20Yenaatiki%20Video%20Songs%20__%20Nagarjuna_%20Asin(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9TaGl2YW1hbmkgVGVsdWd1IE1vdmllIF9fIFllbmFhdGlraSBWaWRlbyBTb25ncyBfXyBOYWdhcmp1bmFfIEFzaW4oTTRBXzEyOEspLm00YSIsImlhdCI6MTc2NzAxNDI0NiwiZXhwIjoxNzk4NTUwMjQ2fQ.vgX8UeV-RcopTT0ERE8q1-G_cWIJEszffWpx5tskob0',
+        duration: 300,
+},
+{
+        id: 'mw-40',
+        title: 'Sirimalle Vaana Full Video Song - Vaana Video Songs - Vinay_ Meera Chopra(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Sirimalle%20Vaana%20Full%20Video%20Song%20-%20Vaana%20Video%20Songs%20-%20Vinay_%20Meera%20Chopra(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9TaXJpbWFsbGUgVmFhbmEgRnVsbCBWaWRlbyBTb25nIC0gVmFhbmEgVmlkZW8gU29uZ3MgLSBWaW5heV8gTWVlcmEgQ2hvcHJhKE00QV8xMjhLKS5tNGEiLCJpYXQiOjE3NjcwMTQyOTYsImV4cCI6MTc5ODU1MDI5Nn0.8ZE9xCLsdgJVt1lkhrQo9lNhA6xBzjDE4ghZ7jO3G28',
+        duration: 300,
+},
+{
+        id: 'mw-41',
+        title: 'Sontham Video Songs _ Telusunaa _ Namitha_ Aryan Rajesh _ TeluguOne(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Sontham%20Video%20Songs%20_%20Telusunaa%20_%20Namitha_%20Aryan%20Rajesh%20_%20TeluguOne(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9Tb250aGFtIFZpZGVvIFNvbmdzIF8gVGVsdXN1bmFhIF8gTmFtaXRoYV8gQXJ5YW4gUmFqZXNoIF8gVGVsdWd1T25lKE00QV8xMjhLKS5tNGEiLCJpYXQiOjE3NjcwMTQzOTEsImV4cCI6MTc5ODU1MDM5MX0.jifkzokRhS9_YFYnx9eg8h5D6wLU2Ta_uyXlin2akaE',
+        duration: 300,
+},
+{
+        id: 'mw-42',
+        title: 'Tamalapaku _ Dil _ Nithin_ Neha _ R. P. Patnaik_ Usha _ Telugu Love Songs _ Dance Songs(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Tamalapaku%20_%20Dil%20_%20Nithin_%20Neha%20_%20R.%20P.%20Patnaik_%20Usha%20_%20Telugu%20Love%20Songs%20_%20Dance%20Songs(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9UYW1hbGFwYWt1IF8gRGlsIF8gTml0aGluXyBOZWhhIF8gUi4gUC4gUGF0bmFpa18gVXNoYSBfIFRlbHVndSBMb3ZlIFNvbmdzIF8gRGFuY2UgU29uZ3MoTTRBXzEyOEspLm00YSIsImlhdCI6MTc2NzAxNDQ1OCwiZXhwIjoxNzk4NTUwNDU4fQ.__pMzv6sDNVm6VEvf-KaqLJaMFGlViQqZmpet11rfTo',
+        duration: 300,
+},
+{
+        id: 'mw-43',
+        title: 'Tella Tellani Cheera - Lyrical _ Deviputrudu _ Venkatesh_ Anjala Zaveri _Udit Narayan_ Sujatha Mohan(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Tella%20Tellani%20Cheera%20-%20Lyrical%20_%20Deviputrudu%20_%20Venkatesh_%20Anjala%20Zaveri%20_Udit%20Narayan_%20Sujatha%20Mohan(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9UZWxsYSBUZWxsYW5pIENoZWVyYSAtIEx5cmljYWwgXyBEZXZpcHV0cnVkdSBfIFZlbmthdGVzaF8gQW5qYWxhIFphdmVyaSBfVWRpdCBOYXJheWFuXyBTdWphdGhhIE1vaGFuKE00QV8xMjhLKS5tNGEiLCJpYXQiOjE3NjcwMTQ0ODUsImV4cCI6MTc5ODU1MDQ4NX0.DvC3bJyb2-RLEgm16SNBKCFLzo1uCAsTcpWhj7rTAR0',
+        duration: 300,
+},
+{
+        id: 'mw-44',
+        title: 'Thara Thaluku Thara Song - Lakshmi Video Song - Venkatesh_ Nayanthara_ Charmi(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Thara%20Thaluku%20Thara%20Song%20-%20Lakshmi%20Video%20Song%20-%20Venkatesh_%20Nayanthara_%20Charmi(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9UaGFyYSBUaGFsdWt1IFRoYXJhIFNvbmcgLSBMYWtzaG1pIFZpZGVvIFNvbmcgLSBWZW5rYXRlc2hfIE5heWFudGhhcmFfIENoYXJtaShNNEFfMTI4SykubTRhIiwiaWF0IjoxNzY3MDE0NTAzLCJleHAiOjE3OTg1NTA1MDN9.Qx5WAySiZ0CXVFPUMrTyuH29SJImsqq3jBMlQcGGWAo',
+        duration: 300,
+},
+{
+        id: 'mw-45',
+        title: 'Thirumalavasa Telugu Lyrics _ Bhadra Movie _ Ravi Teja_ MeeraJasmine _ Maa Paata Mee Nota(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Thirumalavasa%20Telugu%20Lyrics%20_%20Bhadra%20Movie%20_%20Ravi%20Teja_%20MeeraJasmine%20_%20Maa%20Paata%20Mee%20Nota(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9UaGlydW1hbGF2YXNhIFRlbHVndSBMeXJpY3MgXyBCaGFkcmEgTW92aWUgXyBSYXZpIFRlamFfIE1lZXJhSmFzbWluZSBfIE1hYSBQYWF0YSBNZWUgTm90YShNNEFfMTI4SykubTRhIiwiaWF0IjoxNzY3MDE0NTY0LCJleHAiOjE3OTg1NTA1NjR9.jnTfCbdHydUusypV1jhfgfgr21ZfRxkIy4rzrblFZL0',
+        duration: 300,
+},
+{
+        id: 'mw-46',
+        title: 'Unnatundi Gundey Video Song _ Ninnu Kori _ Nani _ Nivetha Thomas _ Gopi Sundar(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Unnatundi%20Gundey%20Video%20Song%20_%20Ninnu%20Kori%20_%20Nani%20_%20Nivetha%20Thomas%20_%20Gopi%20Sundar(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9Vbm5hdHVuZGkgR3VuZGV5IFZpZGVvIFNvbmcgXyBOaW5udSBLb3JpIF8gTmFuaSBfIE5pdmV0aGEgVGhvbWFzIF8gR29waSBTdW5kYXIoTTRBXzEyOEspLm00YSIsImlhdCI6MTc2NzAxNDU5MiwiZXhwIjoxNzk4NTUwNTkyfQ.w-otvnhxiwNFHPQU-Qco0WiZ1ANpvKbysf5egtXLHXw',
+        duration: 300,
+},
+{
+        id: 'mw-47',
+        title: 'Vaaji Vaaji __ Sivaji Telugu Video Songs __ A R RAHMAN(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Vaaji%20Vaaji%20__%20Sivaji%20Telugu%20Video%20Songs%20__%20A%20R%20RAHMAN(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9WYWFqaSBWYWFqaSBfXyBTaXZhamkgVGVsdWd1IFZpZGVvIFNvbmdzIF9fIEEgUiBSQUhNQU4oTTRBXzEyOEspLm00YSIsImlhdCI6MTc2NzAxNDY1NSwiZXhwIjoxNzk4NTUwNjU1fQ.dZg7B2vtY9tLpN-AZy2m0C5rkdx01AvGltIeBsMPnX8',
+        duration: 300,
+},
+{
+        id: 'mw-48',
+        title: 'Vachindamma Video Song With Lyrics _ Geetha Govindam Movie _ Vijay Devarakonda_ Rashmika(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Vachindamma%20Video%20Song%20With%20Lyrics%20_%20Geetha%20Govindam%20Movie%20_%20Vijay%20Devarakonda_%20Rashmika(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9WYWNoaW5kYW1tYSBWaWRlbyBTb25nIFdpdGggTHlyaWNzIF8gR2VldGhhIEdvdmluZGFtIE1vdmllIF8gVmlqYXkgRGV2YXJha29uZGFfIFJhc2htaWthKE00QV8xMjhLKS5tNGEiLCJpYXQiOjE3NjcwMTQ3MTksImV4cCI6MTc5ODU1MDcxOX0.bpdptoUDxMNyRctADHDluyoN-MSGXubSpIcfN9gY960',
+        duration: 300,
+},
+{
+        id: 'mw-49',
+        title: 'Valentines Day Special Songs - Ounani Antav - Uday Kiran_ Richa Sharma(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Valentines%20Day%20Special%20Songs%20-%20Ounani%20Antav%20-%20Uday%20Kiran_%20Richa%20Sharma(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9WYWxlbnRpbmVzIERheSBTcGVjaWFsIFNvbmdzIC0gT3VuYW5pIEFudGF2IC0gVWRheSBLaXJhbl8gUmljaGEgU2hhcm1hKE00QV8xMjhLKS5tNGEiLCJpYXQiOjE3NjcwMTQ3NTcsImV4cCI6MTc5ODU1MDc1N30.mC8bzoiFJvMfV6cOf1OVG4IEfYQ0UulUw4X5YtQLmts',
+        duration: 300,
+},
+{
+        id: 'mw-50',
+        title: 'Varanasi - GlobeTrotter Song _ Mahesh Babu_ Priyanka Chopra_ Prithviraj _MM Keeravaani _SS Rajamouli(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Varanasi%20-%20GlobeTrotter%20Song%20_%20Mahesh%20Babu_%20Priyanka%20Chopra_%20Prithviraj%20_MM%20Keeravaani%20_SS%20Rajamouli(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9WYXJhbmFzaSAtIEdsb2JlVHJvdHRlciBTb25nIF8gTWFoZXNoIEJhYnVfIFByaXlhbmthIENob3ByYV8gUHJpdGh2aXJhaiBfTU0gS2VlcmF2YWFuaSBfU1MgUmFqYW1vdWxpKE00QV8xMjhLKS5tNGEiLCJpYXQiOjE3NjcwMTQ4MDcsImV4cCI6MTc5ODU1MDgwN30.Yf5RVRO3R5jqFNbrEgz4QcjFGP-1jdPHJtRGurBkIcQ',
+        duration: 300,
+},
+{
+        id: 'mw-51',
+        title: 'Vasu Telugu Movie Video Songs _ Paataku Pranam _ Venkatesh _ Bhoomika _ Harris Jayaraj(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Vasu%20Telugu%20Movie%20Video%20Songs%20_%20Paataku%20Pranam%20_%20Venkatesh%20_%20Bhoomika%20_%20Harris%20Jayaraj(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9WYXN1IFRlbHVndSBNb3ZpZSBWaWRlbyBTb25ncyBfIFBhYXRha3UgUHJhbmFtIF8gVmVua2F0ZXNoIF8gQmhvb21pa2EgXyBIYXJyaXMgSmF5YXJhaihNNEFfMTI4SykubTRhIiwiaWF0IjoxNzY3MDE0ODQxLCJleHAiOjE3OTg1NTA4NDF9.gXlzjBiAKYry2a46C1l0YTbTa_4Hs_ZOyHb0Eh8r4Vc',
+        duration: 300,
+},
+{
+        id: 'mw-52',
+        title: 'Veyi Kannulatho _ Nee Sneham _ Uday Kiran_ Aarti Agarwal _ R. P. Patnaik_ Usha _ Telugu Love Songs(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Veyi%20Kannulatho%20_%20Nee%20Sneham%20_%20Uday%20Kiran_%20Aarti%20Agarwal%20_%20R.%20P.%20Patnaik_%20Usha%20_%20Telugu%20Love%20Songs(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9WZXlpIEthbm51bGF0aG8gXyBOZWUgU25laGFtIF8gVWRheSBLaXJhbl8gQWFydGkgQWdhcndhbCBfIFIuIFAuIFBhdG5haWtfIFVzaGEgXyBUZWx1Z3UgTG92ZSBTb25ncyhNNEFfMTI4SykubTRhIiwiaWF0IjoxNzY3MDE0ODY2LCJleHAiOjE3OTg1NTA4NjZ9.i4yj1UMGondvWS_myZ8UBMgI04YC_HvabCiEhr6-HAI',
+        duration: 300,
+},
+{
+        id: 'mw-53',
+        title: 'Vibe Undi - Lyrical _ Mirai _ Teja Sajja_ Ritika Nayak _ Karthik Gattamneni _Gowra Hari_Armaan Malik(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Vibe%20Undi%20-%20Lyrical%20_%20Mirai%20_%20Teja%20Sajja_%20Ritika%20Nayak%20_%20Karthik%20Gattamneni%20_Gowra%20Hari_Armaan%20Malik(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9WaWJlIFVuZGkgLSBMeXJpY2FsIF8gTWlyYWkgXyBUZWphIFNhamphXyBSaXRpa2EgTmF5YWsgXyBLYXJ0aGlrIEdhdHRhbW5lbmkgX0dvd3JhIEhhcmlfQXJtYWFuIE1hbGlrKE00QV8xMjhLKS5tNGEiLCJpYXQiOjE3NjcwMTQ5MDgsImV4cCI6MTc5ODU1MDkwOH0.He4R2Bg1AbgBypmLl3ADNotHJgbXNjZ4l3Vfi9WFyQY',
+        duration: 300,
+},
+{
+        id: 'mw-54',
+        title: 'Virupaksha - Nachavule Nachavule Video _ Sai Dharam Tej_ Samyuktha_ SukumarB_ KarthikDandu_ Ajaneesh(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Virupaksha%20-%20Nachavule%20Nachavule%20Video%20_%20Sai%20Dharam%20Tej_%20Samyuktha_%20SukumarB_%20KarthikDandu_%20Ajaneesh(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9WaXJ1cGFrc2hhIC0gTmFjaGF2dWxlIE5hY2hhdnVsZSBWaWRlbyBfIFNhaSBEaGFyYW0gVGVqXyBTYW15dWt0aGFfIFN1a3VtYXJCXyBLYXJ0aGlrRGFuZHVfIEFqYW5lZXNoKE00QV8xMjhLKS5tNGEiLCJpYXQiOjE3NjcwMTQ5NDYsImV4cCI6MTc5ODU1MDk0Nn0.rvQ-PeP0xC6z13a01tyuAFeHlsnbkNRQ24Uhl9iUVrs',
+        duration: 300,
+},
+{
+        id: 'mw-55',
+        title: 'Yamadonga Songs _ Nuvvu Muttukunte Video Song _ Jr NTR_ Mamta Mohandas _ Sri Balaji Video(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Yamadonga%20Songs%20_%20Nuvvu%20Muttukunte%20Video%20Song%20_%20Jr%20NTR_%20Mamta%20Mohandas%20_%20Sri%20Balaji%20Video(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9ZYW1hZG9uZ2EgU29uZ3MgXyBOdXZ2dSBNdXR0dWt1bnRlIFZpZGVvIFNvbmcgXyBKciBOVFJfIE1hbXRhIE1vaGFuZGFzIF8gU3JpIEJhbGFqaSBWaWRlbyhNNEFfMTI4SykubTRhIiwiaWF0IjoxNzY3MDE0OTc2LCJleHAiOjE3OTg1NTA5NzZ9.jTNHSgNUYGjYt9UTAHqN45KvhAfVZwgpDlSfoKtZqV4',
+        duration: 300,
+},
+{
+        id: 'mw-56',
+        title: 'Yamadonga Video Songs _ Rabbaru Gajulu Video Song _ Jr.NTR_ Priyamani _ Sri Balaji Video(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Yamadonga%20Video%20Songs%20_%20Rabbaru%20Gajulu%20Video%20Song%20_%20Jr.NTR_%20Priyamani%20_%20Sri%20Balaji%20Video(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9ZYW1hZG9uZ2EgVmlkZW8gU29uZ3MgXyBSYWJiYXJ1IEdhanVsdSBWaWRlbyBTb25nIF8gSnIuTlRSXyBQcml5YW1hbmkgXyBTcmkgQmFsYWppIFZpZGVvKE00QV8xMjhLKS5tNGEiLCJpYXQiOjE3NjcwMTUwMDgsImV4cCI6MTc5ODU1MTAwOH0.sXK2l60WdqnzWpSGmHSkK8rdt7P6CvmNKqp2vYVKOkU',
+        duration: 300,
+},
+{
+        id: 'mw-57',
+        title: 'Yeduta Nilichindi Choodu Video Song - Vaana Video Songs - Vinay_ Meera Chopra(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Yeduta%20Nilichindi%20Choodu%20Video%20Song%20-%20Vaana%20Video%20Songs%20-%20Vinay_%20Meera%20Chopra(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9ZZWR1dGEgTmlsaWNoaW5kaSBDaG9vZHUgVmlkZW8gU29uZyAtIFZhYW5hIFZpZGVvIFNvbmdzIC0gVmluYXlfIE1lZXJhIENob3ByYShNNEFfMTI4SykubTRhIiwiaWF0IjoxNzY3MDE1MDM4LCJleHAiOjE3OTg1NTEwMzh9.Exoa3JZw7EhV9QGfhkUkGkjeAxGaobBcviAvKay_GWo',
+        duration: 300,
+},
+{
+        id: 'mw-58',
+        title: 'Yeh Oore Chinadana Full Video Song __ Bhadra Movie __ Ravi Teja_ Meera Jasmine(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Yeh%20Oore%20Chinadana%20Full%20Video%20Song%20__%20Bhadra%20Movie%20__%20Ravi%20Teja_%20Meera%20Jasmine(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9ZZWggT29yZSBDaGluYWRhbmEgRnVsbCBWaWRlbyBTb25nIF9fIEJoYWRyYSBNb3ZpZSBfXyBSYXZpIFRlamFfIE1lZXJhIEphc21pbmUoTTRBXzEyOEspLm00YSIsImlhdCI6MTc2NzAxNTA3MywiZXhwIjoxNzk4NTUxMDczfQ.uFlZNQ2dsC6cVaVNirPIpiCD1v9OYkRCHnbypjSppVM',
+        duration: 300,
+},
+{
+        id: 'mw-59',
+        title: 'Yenaatiki Manamokatenani HD Video Song - Shivamani(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Yenaatiki%20Manamokatenani%20HD%20Video%20Song%20-%20Shivamani(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9ZZW5hYXRpa2kgTWFuYW1va2F0ZW5hbmkgSEQgVmlkZW8gU29uZyAtIFNoaXZhbWFuaShNNEFfMTI4SykubTRhIiwiaWF0IjoxNzY3MDE1MTQxLCJleHAiOjE3OTg1NTExNDF9.KNXRNVDqaNPv7TeYiTG2vI0DXe4tihhQYuHSi3HqNqA',
+        duration: 300,
+},
+{
+        id: 'mw-60',
+        title: 'Yevetti Full Song ll Student No.1 Songs ll Jr.N.T.R_ Ghajala(M4A_128K)',
+        src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/Yevetti%20Full%20Song%20ll%20Student%20No.1%20Songs%20ll%20Jr.N.T.R_%20Ghajala(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9ZZXZldHRpIEZ1bGwgU29uZyBsbCBTdHVkZW50IE5vLjEgU29uZ3MgbGwgSnIuTi5ULlJfIEdoYWphbGEoTTRBXzEyOEspLm00YSIsImlhdCI6MTc2NzAxNTE2OCwiZXhwIjoxNzk4NTUxMTY4fQ.K96povIzmua5xmgvrdft2FyHSqKPUwCbYXkYSj-zmyM',
+        duration: 300,
+},
+{
         id: 'mw-1',
         title: 'Vachinde Mellaga',
         src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/_Vachinde%20Full%20Video%20Song%20__%20Fidaa%20Full%20Video%20Songs%20__%20Varun%20Tej_%20Sai%20Pallavi%20__%20Sekhar%20Kammula(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9fVmFjaGluZGUgRnVsbCBWaWRlbyBTb25nIF9fIEZpZGFhIEZ1bGwgVmlkZW8gU29uZ3MgX18gVmFydW4gVGVqXyBTYWkgUGFsbGF2aSBfXyBTZWtoYXIgS2FtbXVsYShNNEFfMTI4SykubTRhIiwiaWF0IjoxNzY2OTg2MzQxLCJleHAiOjE3OTg1MjIzNDF9.31giCxdfT-RVp3sXCjY1vJCCe6wtl37MIlg3A0laIV4',
@@ -257,10 +395,10 @@ export const playlists: Playlist[] = [
   {
     id: 'playlist-2',
     name: 'Morning Vibes',
-    startHour: 5, // 2:00 PM
+    startHour: 17, // 2:00 PM
     startMinute: 0,
     tracks: [
-            {
+  {
         id: 'mw-1',
         title: 'Vachinde Mellaga',
         src: 'https://sbkhajogqrzeqmnikxnl.supabase.co/storage/v1/object/sign/Songs/_Vachinde%20Full%20Video%20Song%20__%20Fidaa%20Full%20Video%20Songs%20__%20Varun%20Tej_%20Sai%20Pallavi%20__%20Sekhar%20Kammula(M4A_128K).m4a?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83YWNmZGQ2MS01YjM2LTRmY2UtODJjOC0xOTgwNGRjMjU4YjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJTb25ncy9fVmFjaGluZGUgRnVsbCBWaWRlbyBTb25nIF9fIEZpZGFhIEZ1bGwgVmlkZW8gU29uZ3MgX18gVmFydW4gVGVqXyBTYWkgUGFsbGF2aSBfXyBTZWtoYXIgS2FtbXVsYShNNEFfMTI4SykubTRhIiwiaWF0IjoxNzY2OTg2MzQxLCJleHAiOjE3OTg1MjIzNDF9.31giCxdfT-RVp3sXCjY1vJCCe6wtl37MIlg3A0laIV4',
@@ -488,8 +626,8 @@ export const playlists: Playlist[] = [
   {
     id: 'playlist-3',
     name: 'Morning Vibes',
-    startHour: 8, // 2:00 PM
-    startMinute: 10,
+    startHour: 20, // 2:00 PM
+    startMinute: 20,
     tracks: [
                   {
         id: 'mw-1',
@@ -719,8 +857,8 @@ export const playlists: Playlist[] = [
   {
     id: 'playlist-4',
     name: 'Afternoon Vibes',
-    startHour: 11, // 2:00 PM
-    startMinute: 20,
+    startHour: 1, // 2:00 PM
+    startMinute: 0,
     tracks: [
                        {
         id: 'mw-1',
